@@ -1,2 +1,2 @@
-from openkruise/kruise-rollout:v0.5.0
+from openkruise/kruise-rollout:0.5.0
 maintainer HunterX-001
